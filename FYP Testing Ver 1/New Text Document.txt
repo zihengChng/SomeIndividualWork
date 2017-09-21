@@ -1,0 +1,3 @@
+please use this to access to admin part
+
+localhost/FYP/admin
